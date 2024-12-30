@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreyarai29&label=Profile%20views&color=0e75b6&style=flat" alt="shreyarai29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreyarai29&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyarai29" /> </p>
 
 - 🌱 I’m currently learning **Python, DSA, C++**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <h3>Connect & Find Me:</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<a href="https://github.com/shreyarai29" target="blank">
+<a href="https://github.com/Shreyarai29" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="#" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
@@ -239,7 +239,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 ### Metrics
 | Stats | Streak | Language |
 |--------|--------|--------|
-| [![Shreya Rai Stats](https://github-readme-stats.vercel.app/api?username=shreyarai29&show_icons=true&locale=en)](https://github.com/shreyarai29) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyarai29&)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyarai29&layout=compact&theme=buefy&hide_border=true)](https://github.com/shreyarai29/github-readme-stats) |
+| [![Shreya Rai Stats](https://github-readme-stats.vercel.app/api?username=Shreyarai29&show_icons=true&locale=en)](https://github.com/Shreyarai29) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreyarai29&)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyarai29&layout=compact&theme=buefy&hide_border=true)](https://github.com/Shreyarai29/github-readme-stats) |
 
 <!-- ### Top Repositories
 | Moon UserBot | Top MoviesBot | String SessionBot |
@@ -247,7 +247,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 | [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=The-MoonTg-project&repo=Moon-Userbot)](https://github.com/The-MoonTg-project/Moon-Userbot) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) | -->
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyarai29&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shreyarai29&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
