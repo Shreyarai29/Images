@@ -1,10 +1,10 @@
-![MasterHead](https://github.com/TechyShreyansh/Shreyarai01/blob/main/Images/banner.png)
+![MasterHead](https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/banner.png)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Shreya+Rai+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techshreyansh0129&label=Profile%20views&color=0e75b6&style=flat" alt="shreyarai29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreyarai29&label=Profile%20views&color=0e75b6&style=flat" alt="shreyarai29" /> </p>
 
 - 🌱 I’m currently learning **Python, DSA, C++**
 
@@ -158,7 +158,7 @@
      <h3>Software & Tools</h3>
     <!-- Data Visualization Tools -->
        <a href="https://www.adobe.com/acrobat/acrobat-pro.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
+            <img src="https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
         </a>
     </div>
     <br/>
@@ -215,10 +215,10 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
                <a href="https://www.opera.com/download" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
+            <img src="https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
         </a>
                <a href="https://www.torproject.org/download/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
+            <img src="https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
         </a>
      </div>
      <h3>Most Used Operating System</h3>
@@ -234,7 +234,7 @@
 
 <img align="right" width="150" height="150" src="https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts About Me:
-I've Worked for many users in the past. ⚡ I love playing video games and you'll find me on my [Telegram Channel](http://telegram.me/Tech_Shreyansh) and live coding! I'm into Hacking, App Modding, and Web Designing. I also enjoy watching Movies and Cartoons, Finding bugs, making Something new, and Solving errors in Code. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my [Telegram Chat](http://telegram.me/Tech_Shreyansh2) during a live. Or DM me on Instagram or Twitter. Let's connect!
+I've Worked for many users in the past. ⚡ I love playing video games and you'll find me on my [Git Hub](https://github.com/Shreyarai29) and live coding! I'm into Web Development, and Cyber Security. I also enjoy watching Movies and Cartoons, Finding bugs, making Something new, and Solving errors in Code. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my [Git Hub](https://github.com/Shreyarai29) during a live. Or DM me on Instagram or Twitter. Let's connect!
 
 ### Metrics
 | Stats | Streak | Language |
